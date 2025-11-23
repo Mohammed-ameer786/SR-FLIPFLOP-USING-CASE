@@ -67,8 +67,7 @@ RegisterNumber:25015295
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1176" height="144" alt="Screenshot 2025-11-23 144917" src="https://github.com/user-attachments/assets/18e563cf-9045-4c2b-8731-aaebde3e1ca4" />
-
+<img width="1290" height="350" alt="Screenshot 2025-11-23 145103" src="https://github.com/user-attachments/assets/46d99fb7-da96-4d48-9bc0-c9a4fc31f0bf" />
 
 **RESULTS**
 Thus implement SR flipflop using verilog and validating their functionality using their functional tables.
